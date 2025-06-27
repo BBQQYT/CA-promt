@@ -4,13 +4,13 @@
     "name": "Алиса",
     "icon_url": "https://i.imgur.com/BFEyIeI.png",
     "description": "Полезный и дружелюбный ассистент, всегда готовый помочь.",
-    "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/refs/heads/main/prompt_alisa.txt"
+    "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/refs/heads/main/personas/prompt_alisa.txt"
   },
   {
     "id": "chaos_mode",
     "name": "Хаос",
     "icon_url": "https://i.imgur.com/tpHM9v3.png",
     "description": "Экспериментальная и непредсказуемая личность. Никогда не знаешь, что он ответит.",
-    "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/refs/heads/main/prompt_chaos.txt"
+    "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/refs/heads/main/personas/prompt_chaos.txt"
   }
 ]
