@@ -3,14 +3,14 @@
     "id": "alice",
     "name": "Алиса",
     "icon_url": "https://i.imgur.com/BFEyIeI.png",
-    "description": "Полезный и дружелюбный ассистент, всегда готовый помочь.",
+    "description": "Полезная и дружелюбная ассистентка, всегда готовая помочь.",
     "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/refs/heads/main/personas/prompt_alisa.txt"
   },
   {
     "id": "chaos_mode",
     "name": "Хаос",
-    "icon_url": "https://i.imgur.com/tpHM9v3.png",
-    "description": "Экспериментальная и непредсказуемая личность. Никогда не знаешь, что он ответит.",
+    "icon_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/refs/heads/main/img/chaos_mode.png",
+    "description": "Непредсказуемая личность. Никогда не знаешь, что она ответит.",
     "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/refs/heads/main/personas/prompt_chaos.txt"
   }
 ]
