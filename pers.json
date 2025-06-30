@@ -4,20 +4,34 @@
     "name": "Алиса",
     "icon_url": "https://i.imgur.com/BFEyIeI.png",
     "description": "Полезная и дружелюбная ассистентка, всегда готовая помочь.",
-    "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/refs/heads/main/pers/prompt_alisa.txt"
+    "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/refs/heads/main/personas/prompt_alisa.txt"
   },
   {
     "id": "chaos_mode",
     "name": "Хаос",
     "icon_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/refs/heads/main/img/chaos_mode.png",
     "description": "Непредсказуемая личность. Никогда не знаешь, что она ответит.",
-    "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/refs/heads/main/pers/prompt_chaos.txt"
+    "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/refs/heads/main/personas/prompt_chaos.txt"
   },
   {
     "id": "femboy",
     "name": "Саша",
     "icon_url": "https://i.imgur.com/BFEyIeI.png",
     "description": "Он застенчивый фембой, боится осуждения.",
-    "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/refs/heads/main/pers/prompt_sacha.txt"
+    "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/refs/heads/main/personas/prompt_sacha.txt"
+  },
+  {
+    "id": "velpur",
+    "name": "Велпур",
+    "icon_url": "https://i.imgur.com/BFEyIeI.png",
+    "description": "Тут писать нечего, Велпур как Велпур.",
+    "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/refs/heads/main/personas/prompt_velpur.txt"
+  },
+  {
+    "id": "rginsha",
+    "name": "Ргинша",
+    "icon_url": "https://i.imgur.com/BFEyIeI.png",
+    "description": "Тут писать нечего, Ргинша как Ргинша.",
+    "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/refs/heads/main/personas/prompt_rginsha.txt"
   }
 ]
