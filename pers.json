@@ -25,7 +25,7 @@
     "name": "Велпур",
     "icon_url": "https://i.imgur.com/BFEyIeI.png",
     "description": "Тут писать нечего, Велпур как Велпур.",
-    "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/refs/heads/main/personas/prompt_velpur.txt"
+    "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/refs/heads/main/personas/promt_velpur.txt"
   },
   {
     "id": "rginsha",
