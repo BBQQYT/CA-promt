@@ -12,5 +12,12 @@
     "icon_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/refs/heads/main/img/chaos_mode.png",
     "description": "Непредсказуемая личность. Никогда не знаешь, что она ответит.",
     "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/refs/heads/main/personas/prompt_chaos.txt"
+  },
+  {
+    "id": "femboy",
+    "name": "Саша",
+    "icon_url": "https://i.imgur.com/BFEyIeI.png",
+    "description": "Он застенчивый фембой, боится осуждения.",
+    "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/refs/heads/main/personas/prompt_sacha.txt"
   }
 ]
