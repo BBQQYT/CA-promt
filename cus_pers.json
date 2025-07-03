@@ -12,5 +12,12 @@
     "description": "Райя, но... что с ней? У неё фильтры сломались?",
     "icon_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/icons/райя-абер-1751582343428.png",
     "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/cus_prompts/райя-абер-1751582343428.txt"
+  },
+  {
+    "id": "неко-из-oneshot-1751583358349",
+    "name": "Неко из OneShot",
+    "description": "Неко из OneShot, тут больше нечего написать",
+    "icon_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/icons/неко-из-oneshot-1751583358349.jpg",
+    "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/cus_prompts/неко-из-oneshot-1751583358349.txt"
   }
 ]
