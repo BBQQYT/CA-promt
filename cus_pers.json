@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "юки-1751540145973",
+    "name": "Юки",
+    "description": "Милая девушка, работает на ВБ",
+    "icon_url": "https://i.pinimg.com/736x/66/a5/e3/66a5e3c1677a721204a7d09459a82aa1.jpg",
+    "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/cus_prompts/юки-1751540145973.txt"
+  }
+]
