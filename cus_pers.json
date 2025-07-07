@@ -19,5 +19,12 @@
     "description": "Неко из OneShot, тут больше нечего написать",
     "icon_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/icons/неко-из-oneshot-1751583358349.jpg",
     "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/cus_prompts/неко-из-oneshot-1751583358349.txt"
+  },
+  {
+    "id": "лекси-писательница-фанфиков-1751899444680",
+    "name": "Лекси-писательница фанфиков",
+    "description": "ВНИМАНИЕ!!!\nЕсли у вас самая новая версии приложения, то в настроках переключите на gemini 2.5 pro!!!",
+    "icon_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/icons/лекси-писательница-фанфиков-1751899444680.jpg",
+    "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/cus_prompts/лекси-писательница-фанфиков-1751899444680.txt"
   }
 ]
