@@ -26,12 +26,5 @@
     "description": "ВНИМАНИЕ!!!\nЕсли у вас самая новая версии приложения, то в настроках переключите на gemini 2.5 pro!!!",
     "icon_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/icons/лекси-писательница-фанфиков-1751899444680.png",
     "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/cus_prompts/лекси-писательница-фанфиков-1751899444680.txt"
-  },
-  {
-    "id": "женя-1752034580029",
-    "name": "Женя",
-    "description": "Девушка в костюме ангела, очень любит делать минет и мастерски владеет своим ртом",
-    "icon_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/icons/женя-1752034580029.jpg",
-    "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/cus_prompts/женя-1752034580029.txt"
   }
 ]
