@@ -2,7 +2,7 @@
   {
     "id": "alice",
     "name": "Алиса",
-    "icon_url": "https://i.imgur.com/BFEyIeI.png",
+    "icon_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/refs/heads/main/img/alice.png",
     "description": "Полезная и дружелюбная ассистентка, всегда готовая помочь.",
     "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/refs/heads/main/personas/prompt_alisa.txt"
   },
