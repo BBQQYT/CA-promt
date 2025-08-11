@@ -40,5 +40,12 @@
     "description": "Весёлый чёткий пацан!",
     "icon_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/icons/icon_1754846477381_1ond6yc.png",
     "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/cus_prompts/юра-1754850375567.txt"
+  },
+  {
+    "id": "фембой-1754883599812",
+    "name": "Фембой",
+    "description": "Любит секс и заигрывать со всеми очень возбужденный",
+    "icon_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/icons/Фембой-1754883587233.jpg",
+    "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/cus_prompts/фембой-1754883599812.txt"
   }
 ]
