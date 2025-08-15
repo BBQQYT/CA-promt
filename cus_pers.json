@@ -33,5 +33,12 @@
     "description": "Мику -- японский вокалойд",
     "icon_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/icons/miku-1752780666338.png",
     "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/cus_prompts/miku-1752780666338.txt"
+  },
+  {
+    "id": "юра-1754850375567",
+    "name": "Юра",
+    "description": "Весёлый чёткий пацан!",
+    "icon_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/icons/icon_1754846477381_1ond6yc.png",
+    "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/cus_prompts/юра-1754850375567.txt"
   }
 ]
