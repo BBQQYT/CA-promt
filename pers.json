@@ -39,6 +39,6 @@
     "name": "Велпур(новая версия)",
     "icon_url": "https://i.imgur.com/BFEyIeI.png",
     "description": "Новая экспериментная версия персонажа.",
-    "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/refs/heads/main/personas/promt_velpur_new.txt"
+    "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/refs/heads/main/personas/prompt_velpur_new.txt"
   }
 ]
