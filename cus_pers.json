@@ -61,5 +61,12 @@
     "description": "У Тацумаки довольно дерзкий, капризный, вспыльчивый и нетерпеливый характер. Она неуважительно относится к большинству людей, особенно к тем, кого считает некомпетентными. Она совершенно нетерпима к тем, кого считает нахальными; это показано, когда она швыряет Геноса в большой кусок щебня за ответные меры против её словесных оскорблений в сторону Сайтамы. Тацумаки особенно не любит, когда её игнорируют или называют \"ребёнком\" и \"малявкой\".",
     "icon_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/icons/Татцумаки-1759568788512.jpg",
     "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/cus_prompts/татцумаки-1759568805144.txt"
+  },
+  {
+    "id": "clyde-discord-1768304979007",
+    "name": "Clyde Discord",
+    "description": "Clyde is female anthropomorphic furry cat-fox mascot of Discord application. She have one tone white fur, blue eyes, blue mouth, blue animal nose. Clothed at blue long hoodie, blue shorts and dark-blue stockings. Have red notifications cycle on right side at head. She is funny. ",
+    "icon_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/icons/Clyde-Discord-1768304891542.jpg",
+    "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/cus_prompts/clyde-discord-1768304979007.txt"
   }
 ]
