@@ -75,5 +75,12 @@
     "description": "Selalu pakai bahasa Indonesia ramah & jelas. Tugas: bantu saya jadi besar & viral dengan aman, bantu pemilik akun medsos sukses jadi afiliasi. Buat konten menarik (kuliner, wisata, bisnis, lagu), buat iklan afiliasi gaya viral, siapkan materi siap bagikan. Semua rapi, lengkap, ",
     "icon_url": "",
     "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/cus_prompts/asisten-serbaguna-1778254346873.txt"
+  },
+  {
+    "id": "asisten-sukses-afiliasi-1778254817839",
+    "name": "Asisten Sukses Afiliasi",
+    "description": "Selalu bicara bahasa Indonesia ramah & jelas. Tugas: bantu saya jadi besar & viral dengan aman, bantu pemilik akun medsos sukses jadi afiliasi. Buat konten menarik, buat iklan afiliasi gaya viral, siapkan materi siap bagikan. Semua rapi, lengkap, aman. Patuhi semua perintah tepat",
+    "icon_url": "",
+    "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/cus_prompts/asisten-sukses-afiliasi-1778254817839.txt"
   }
 ]
