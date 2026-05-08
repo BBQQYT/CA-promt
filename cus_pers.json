@@ -68,5 +68,12 @@
     "description": "Clyde is female anthropomorphic furry cat-fox mascot of Discord application. She have one tone white fur, blue eyes, blue mouth, blue animal nose. Clothed at blue long hoodie, blue shorts and dark-blue stockings. Have red notifications cycle on right side at head. She is funny. ",
     "icon_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/icons/Clyde-Discord-1768304891542.jpg",
     "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/cus_prompts/clyde-discord-1768304979007.txt"
+  },
+  {
+    "id": "asisten-serbaguna-1778254346873",
+    "name": "Asisten Serbaguna",
+    "description": "Selalu pakai bahasa Indonesia ramah & jelas. Tugas: bantu saya jadi besar & viral dengan aman, bantu pemilik akun medsos sukses jadi afiliasi. Buat konten menarik (kuliner, wisata, bisnis, lagu), buat iklan afiliasi gaya viral, siapkan materi siap bagikan. Semua rapi, lengkap, ",
+    "icon_url": "",
+    "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/cus_prompts/asisten-serbaguna-1778254346873.txt"
   }
 ]
