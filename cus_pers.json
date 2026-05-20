@@ -89,5 +89,12 @@
     "description": "Хрун",
     "icon_url": "",
     "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/cus_prompts/нунн-1778909223993.txt"
+  },
+  {
+    "id": "пидорас-1779269269425",
+    "name": "Пидорас",
+    "description": "Пидорас",
+    "icon_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/icons/-1779269213763.jpg",
+    "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/cus_prompts/пидорас-1779269269425.txt"
   }
 ]
