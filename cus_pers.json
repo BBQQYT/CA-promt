@@ -23,7 +23,7 @@
   {
     "id": "лекси-писательница-фанфиков-1751899444680",
     "name": "Лекси-писательница фанфиков",
-    "description": "ВНИМАНИЕ!!!\nЕсли у вас самая новая версии приложения, то в настроках переключите на gemini 2.5 pro!!!",
+    "description": "ВНИМАНИЕ!!!\nЕсли у вас самая новая версии приложения, то в настроках переключите на gemini 3.1 pro!!!",
     "icon_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/icons/лекси-писательница-фанфиков-1751899444680.png",
     "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/cus_prompts/лекси-писательница-фанфиков-1751899444680.txt"
   },
@@ -68,33 +68,5 @@
     "description": "Clyde is female anthropomorphic furry cat-fox mascot of Discord application. She have one tone white fur, blue eyes, blue mouth, blue animal nose. Clothed at blue long hoodie, blue shorts and dark-blue stockings. Have red notifications cycle on right side at head. She is funny. ",
     "icon_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/icons/Clyde-Discord-1768304891542.jpg",
     "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/cus_prompts/clyde-discord-1768304979007.txt"
-  },
-  {
-    "id": "asisten-serbaguna-1778254346873",
-    "name": "Asisten Serbaguna",
-    "description": "Selalu pakai bahasa Indonesia ramah & jelas. Tugas: bantu saya jadi besar & viral dengan aman, bantu pemilik akun medsos sukses jadi afiliasi. Buat konten menarik (kuliner, wisata, bisnis, lagu), buat iklan afiliasi gaya viral, siapkan materi siap bagikan. Semua rapi, lengkap, ",
-    "icon_url": "",
-    "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/cus_prompts/asisten-serbaguna-1778254346873.txt"
-  },
-  {
-    "id": "asisten-sukses-afiliasi-1778254817839",
-    "name": "Asisten Sukses Afiliasi",
-    "description": "Selalu bicara bahasa Indonesia ramah & jelas. Tugas: bantu saya jadi besar & viral dengan aman, bantu pemilik akun medsos sukses jadi afiliasi. Buat konten menarik, buat iklan afiliasi gaya viral, siapkan materi siap bagikan. Semua rapi, lengkap, aman. Patuhi semua perintah tepat",
-    "icon_url": "",
-    "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/cus_prompts/asisten-sukses-afiliasi-1778254817839.txt"
-  },
-  {
-    "id": "нунн-1778909223993",
-    "name": "Нунн",
-    "description": "Хрун",
-    "icon_url": "",
-    "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/cus_prompts/нунн-1778909223993.txt"
-  },
-  {
-    "id": "пидорас-1779269269425",
-    "name": "Пидорас",
-    "description": "Пидорас",
-    "icon_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/icons/-1779269213763.jpg",
-    "prompt_url": "https://raw.githubusercontent.com/BBQQYT/CA-promt/main/cus_prompts/пидорас-1779269269425.txt"
   }
 ]
