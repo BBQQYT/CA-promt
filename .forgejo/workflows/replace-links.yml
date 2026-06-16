@@ -1,0 +1,37 @@
+name: Replace GitHub Links to Forgejo
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch: # Позволяет запускать экшен вручную через веб-интерфейс
+
+jobs:
+  replace-urls:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Клонируем с токеном, чтобы экшен имел права на пуш обратно
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Replace GitHub URLs with Forgejo URLs
+        run: |
+          # Заменяем старые ссылки на новые. 
+          # Если структура ссылок GitHub отличалась (например, была github.com/BBQQ_YT/...), подправь левую часть.
+          sed -i 's|github.com/BBQQ_YT/CA-promt|git.yuruyuri.fun/BBQQ_YT/CA-promt|g' cus_pers.json pers.json
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "action@forgejo.org"
+          git config --local user.name "Forgejo Action"
+          
+          # Проверяем, изменилось ли что-то, чтобы не плодить пустые коммиты
+          if [ -n "$(git status --porcelain)" ]; then
+            git add cus_pers.json pers.json
+            git commit -m "chore: автоматически заменены ссылки GitHub на Forgejo"
+            git push origin main
+          else
+            echo "Изменений не обнаружено, файлы уже содержат актуальные ссылки."
+          fi
